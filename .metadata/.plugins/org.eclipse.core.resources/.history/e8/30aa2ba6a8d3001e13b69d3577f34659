@@ -1,0 +1,9 @@
+package session_09;
+
+public class HashSetDemo {
+	HashSet h= new HashSet();
+	HashSet h=new HashSet();
+	h.add("A");
+	
+
+}

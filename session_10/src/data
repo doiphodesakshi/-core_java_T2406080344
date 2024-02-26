@@ -1,0 +1,18 @@
+jdbc api 
+
+java program Driver MySql
+
+types of Driver:
+4. thin Driver-Type IV- Fully Written in Java
+Steps:
+1. register the Driver
+2. Establish the Connection
+3. prepare Statement
+4. Get ResultSet
+5. Close the Connection
+
+create database jsp_02
+assignment
+how to read character from console
+update salary
+delete 1 employee record
